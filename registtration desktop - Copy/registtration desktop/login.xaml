@@ -1,0 +1,40 @@
+﻿<Page x:Class="registtration_desktop.login"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:registtration_desktop"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="login">
+
+    <Grid Background="BurlyWood" >
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="140*"/>
+            <RowDefinition Height="65*"/>
+            <RowDefinition Height="67*"/>
+            <RowDefinition Height="178*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="262*"/>
+            <ColumnDefinition Width="361*"/>
+            <ColumnDefinition Width="177*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="     Login Form" HorizontalAlignment="Left" Margin="238,10,0,0" VerticalAlignment="Top" Width="286" Height="50" Foreground="Black" FontSize="30" FontWeight="Bold" FontFamily="MV Boli" Grid.ColumnSpan="2"/>
+        <Label Content="username" Margin="91,89,38,9" Foreground="Black" FontFamily="MV Boli" FontSize="20" Background="BurlyWood" FontWeight="Bold"/>
+        <Label Content="password" Margin="91,16,38,7" Foreground="Black" FontFamily="MV Boli" FontSize="20" Grid.Row="1" FontWeight="Bold"/>
+        <Label Content="age" Margin="91,20,38,5" Foreground="Black" FontFamily="MV Boli" FontSize="20" Grid.Row="2" FontWeight="Bold"/>
+        <TextBox x:Name="nametxtbox" HorizontalAlignment="Center" Margin="0,89,0,0" TextWrapping="Wrap" Text=" " VerticalAlignment="Top" Width="217" Height="36" Grid.Column="1"/>
+        <TextBox x:Name="agetxtbox" HorizontalAlignment="Center" Margin="0,23,0,0" TextWrapping="Wrap" Text=" " VerticalAlignment="Top" Width="217" Height="36" Grid.Column="1" Grid.Row="2"/>
+        <Button x:Name="login1" Content="Login" HorizontalAlignment="Left" Margin="26,93,0,0" VerticalAlignment="Top" Height="37" Width="186" Background="White" FontFamily="MV Boli" FontSize="20" FontWeight="Bold" Grid.Row="3" Click="Button_Click"/>
+
+        <Button x:Name="signup" Content="Signup" HorizontalAlignment="Left" Margin="76,93,0,0" VerticalAlignment="Top" Height="37" Width="186" Background="White" FontFamily="MV Boli" FontSize="20" FontWeight="Bold" Grid.Column="1" Grid.Row="3" Click="signup_Click"/>
+        <Button x:Name="forget" Content="forget password" HorizontalAlignment="Left" Margin="6,93,0,0" VerticalAlignment="Top" Height="37" Width="161" Background="White" FontFamily="MV Boli" FontSize="20" FontWeight="Bold" Grid.Column="2" Grid.Row="3" Click="forget_Click_1"/>
+        <TextBox x:Name="passtxtbox" Grid.Column="1" HorizontalAlignment="Left" Margin="76,32,0,0" Grid.Row="1" TextWrapping="Wrap" Text=" " VerticalAlignment="Top" Width="213" Height="33"/>
+        <Button Grid.Column="1" Content="Delete Admin" HorizontalAlignment="Left" Margin="76,10,0,0" Grid.Row="3" VerticalAlignment="Top" Height="48" Width="186" Background="White" FontWeight="Bold" FontSize="20" FontFamily="MV Boli" Click="Button_Click_1"/>
+        <Button Grid.Column="2" Content="Search" HorizontalAlignment="Left" Margin="10,10,0,0" Grid.Row="3" VerticalAlignment="Top" Height="48" Width="145" Background="White" FontWeight="Bold" FontFamily="MV Boli" FontSize="20" Click="Button_Click_2"/>
+
+
+    </Grid>
+</Page>

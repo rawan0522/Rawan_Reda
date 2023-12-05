@@ -1,0 +1,66 @@
+C:\Users\IT\Desktop\registtration desktop\registtration desktop\bin\Debug\registtration desktop.exe.config
+C:\Users\IT\Desktop\registtration desktop\registtration desktop\bin\Debug\registtration desktop.exe
+C:\Users\IT\Desktop\registtration desktop\registtration desktop\bin\Debug\registtration desktop.pdb
+C:\Users\IT\Desktop\registtration desktop\registtration desktop\bin\Debug\EntityFramework.dll
+C:\Users\IT\Desktop\registtration desktop\registtration desktop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\IT\Desktop\registtration desktop\registtration desktop\bin\Debug\EntityFramework.xml
+C:\Users\IT\Desktop\registtration desktop\registtration desktop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IT\Desktop\registtration desktop\registtration desktop\obj\Debug\registtration desktop.csproj.AssemblyReference.cache
+C:\Users\IT\Desktop\registtration desktop\registtration desktop\obj\Debug\registtration desktop.csproj.SuggestedBindingRedirects.cache
+C:\Users\IT\Desktop\registtration desktop\registtration desktop\obj\Debug\forgetpassword.g.cs
+C:\Users\IT\Desktop\registtration desktop\registtration desktop\obj\Debug\login.g.cs
+C:\Users\IT\Desktop\registtration desktop\registtration desktop\obj\Debug\MainWindow.g.cs
+C:\Users\IT\Desktop\registtration desktop\registtration desktop\obj\Debug\profile.g.cs
+C:\Users\IT\Desktop\registtration desktop\registtration desktop\obj\Debug\sign up.g.cs
+C:\Users\IT\Desktop\registtration desktop\registtration desktop\obj\Debug\App.g.cs
+C:\Users\IT\Desktop\registtration desktop\registtration desktop\obj\Debug\registtration desktop_Content.g.cs
+C:\Users\IT\Desktop\registtration desktop\registtration desktop\obj\Debug\registtration desktop_MarkupCompile.cache
+C:\Users\IT\Desktop\registtration desktop\registtration desktop\obj\Debug\registtration desktop_MarkupCompile.lref
+C:\Users\IT\Desktop\registtration desktop\registtration desktop\obj\Debug\forgetpassword.baml
+C:\Users\IT\Desktop\registtration desktop\registtration desktop\obj\Debug\login.baml
+C:\Users\IT\Desktop\registtration desktop\registtration desktop\obj\Debug\MainWindow.baml
+C:\Users\IT\Desktop\registtration desktop\registtration desktop\obj\Debug\profile.baml
+C:\Users\IT\Desktop\registtration desktop\registtration desktop\obj\Debug\sign up.baml
+C:\Users\IT\Desktop\registtration desktop\registtration desktop\obj\Debug\registtration desktop.g.resources
+C:\Users\IT\Desktop\registtration desktop\registtration desktop\obj\Debug\registtration_desktop.Properties.Resources.resources
+C:\Users\IT\Desktop\registtration desktop\registtration desktop\obj\Debug\registtration desktop.csproj.GenerateResource.cache
+C:\Users\IT\Desktop\registtration desktop\registtration desktop\obj\Debug\registtration desktop.csproj.CoreCompileInputs.cache
+C:\Users\IT\Desktop\registtration desktop\registtration desktop\obj\Debug\registtration desktop.csproj.CopyComplete
+C:\Users\IT\Desktop\registtration desktop\registtration desktop\obj\Debug\registtration desktop.exe
+C:\Users\IT\Desktop\registtration desktop\registtration desktop\obj\Debug\registtration desktop.pdb
+C:\Users\IT\Desktop\registtration desktop\registtration desktop\obj\Debug\App.baml
+C:\Users\IT\Desktop\rawan reda w4\registtration desktop - Copy\registtration desktop\obj\Debug\registtration desktop.csproj.AssemblyReference.cache
+C:\Users\IT\Desktop\rawan reda w4\registtration desktop - Copy\registtration desktop\obj\Debug\registtration desktop.csproj.SuggestedBindingRedirects.cache
+C:\Users\IT\Desktop\rawan reda w4\registtration desktop - Copy\registtration desktop\obj\Debug\Delete.g.cs
+C:\Users\IT\Desktop\rawan reda w4\registtration desktop - Copy\registtration desktop\obj\Debug\forgetpassword.g.cs
+C:\Users\IT\Desktop\rawan reda w4\registtration desktop - Copy\registtration desktop\obj\Debug\login.g.cs
+C:\Users\IT\Desktop\rawan reda w4\registtration desktop - Copy\registtration desktop\obj\Debug\MainWindow.g.cs
+C:\Users\IT\Desktop\rawan reda w4\registtration desktop - Copy\registtration desktop\obj\Debug\profile.g.cs
+C:\Users\IT\Desktop\rawan reda w4\registtration desktop - Copy\registtration desktop\obj\Debug\Searsh.g.cs
+C:\Users\IT\Desktop\rawan reda w4\registtration desktop - Copy\registtration desktop\obj\Debug\sign up.g.cs
+C:\Users\IT\Desktop\rawan reda w4\registtration desktop - Copy\registtration desktop\obj\Debug\App.g.cs
+C:\Users\IT\Desktop\rawan reda w4\registtration desktop - Copy\registtration desktop\obj\Debug\registtration desktop_Content.g.cs
+C:\Users\IT\Desktop\rawan reda w4\registtration desktop - Copy\registtration desktop\obj\Debug\registtration desktop_MarkupCompile.cache
+C:\Users\IT\Desktop\rawan reda w4\registtration desktop - Copy\registtration desktop\obj\Debug\registtration desktop_MarkupCompile.lref
+C:\Users\IT\Desktop\rawan reda w4\registtration desktop - Copy\registtration desktop\obj\Debug\registtration desktop.exe
+C:\Users\IT\Desktop\rawan reda w4\registtration desktop - Copy\registtration desktop\obj\Debug\registtration desktop.pdb
+C:\Users\IT\Desktop\rawan reda w4\registtration desktop - Copy\registtration desktop\bin\Debug\registtration desktop.exe.config
+C:\Users\IT\Desktop\rawan reda w4\registtration desktop - Copy\registtration desktop\bin\Debug\registtration desktop.exe
+C:\Users\IT\Desktop\rawan reda w4\registtration desktop - Copy\registtration desktop\bin\Debug\registtration desktop.pdb
+C:\Users\IT\Desktop\rawan reda w4\registtration desktop - Copy\registtration desktop\bin\Debug\EntityFramework.dll
+C:\Users\IT\Desktop\rawan reda w4\registtration desktop - Copy\registtration desktop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\IT\Desktop\rawan reda w4\registtration desktop - Copy\registtration desktop\bin\Debug\EntityFramework.xml
+C:\Users\IT\Desktop\rawan reda w4\registtration desktop - Copy\registtration desktop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IT\Desktop\rawan reda w4\registtration desktop - Copy\registtration desktop\obj\Debug\App.baml
+C:\Users\IT\Desktop\rawan reda w4\registtration desktop - Copy\registtration desktop\obj\Debug\Delete.baml
+C:\Users\IT\Desktop\rawan reda w4\registtration desktop - Copy\registtration desktop\obj\Debug\forgetpassword.baml
+C:\Users\IT\Desktop\rawan reda w4\registtration desktop - Copy\registtration desktop\obj\Debug\login.baml
+C:\Users\IT\Desktop\rawan reda w4\registtration desktop - Copy\registtration desktop\obj\Debug\MainWindow.baml
+C:\Users\IT\Desktop\rawan reda w4\registtration desktop - Copy\registtration desktop\obj\Debug\profile.baml
+C:\Users\IT\Desktop\rawan reda w4\registtration desktop - Copy\registtration desktop\obj\Debug\Searsh.baml
+C:\Users\IT\Desktop\rawan reda w4\registtration desktop - Copy\registtration desktop\obj\Debug\sign up.baml
+C:\Users\IT\Desktop\rawan reda w4\registtration desktop - Copy\registtration desktop\obj\Debug\registtration desktop.g.resources
+C:\Users\IT\Desktop\rawan reda w4\registtration desktop - Copy\registtration desktop\obj\Debug\registtration_desktop.Properties.Resources.resources
+C:\Users\IT\Desktop\rawan reda w4\registtration desktop - Copy\registtration desktop\obj\Debug\registtration desktop.csproj.GenerateResource.cache
+C:\Users\IT\Desktop\rawan reda w4\registtration desktop - Copy\registtration desktop\obj\Debug\registtration desktop.csproj.CoreCompileInputs.cache
+C:\Users\IT\Desktop\rawan reda w4\registtration desktop - Copy\registtration desktop\obj\Debug\registtration desktop.csproj.CopyComplete

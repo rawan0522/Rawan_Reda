@@ -1,0 +1,39 @@
+﻿<Application x:Class="registtration_desktop.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:registtration_desktop"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+
+        <Style x:Key="3freet" TargetType="Button">
+            <Setter Property="FontSize" Value="20"/>
+            <Setter Property="Foreground" Value="Black"/>
+            <Setter Property="Margin" Value="10,10,10,10"/>
+            <Setter Property="Background" Value="LightGreen"/>
+            <Setter Property="FontFamily" Value="MV Boli"/>
+        </Style>
+
+        <Style x:Key="labless" TargetType="Label">
+            <Setter Property="FontSize" Value="20"/>
+            <Setter Property="Foreground" Value="Black"/>
+            <Setter Property="Margin" Value="46,25,0,0"/>
+            <Setter Property="Background" Value="RosyBrown"/>
+            <Setter Property="FontFamily" Value="MV Boli"/>
+        </Style>
+
+        <Style x:Key="task3" TargetType="Button">
+            <Setter Property="FontSize" Value="20"/>
+            <Setter Property="Background" Value="LightBlue"/>
+            <Setter Property="Margin" Value="10,10,10,10"/>
+            <Setter Property="BorderBrush" Value="Red"/>
+            <Setter Property="Foreground" Value="DarkBlue"/>
+        </Style>
+        
+
+
+    </Application.Resources>
+            
+
+
+  
+</Application>
